@@ -1,0 +1,20 @@
+.mainItems {
+  width: 80%;
+  margin: auto;
+  margin-top: 100px;
+}
+.container-item {
+  text-align: center;
+  margin-bottom: 50px;
+}
+.container-image {
+  background-color: rgb(223, 233, 234);
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  border-radius: 100px;
+  margin: auto;
+}
+.container-image img {
+  margin-top: 20px;
+}
